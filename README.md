@@ -1,7 +1,9 @@
 <img  width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="">
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right" width="400" src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="coading">
+<img align="right"  width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coading">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1saurabh2003&label=Profile%20views&color=0e75b6&style=flat" alt="1saurabh2003" /> </p>
 
